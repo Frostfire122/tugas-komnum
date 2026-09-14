@@ -13,8 +13,9 @@
 7. The selected edges form the minimum spanning tree.
 
     </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="path/to/prims_animation.gif" alt="Prim's Algorithm GIF" width="100%">
+    <td >
+      <img width="400" height="208" alt="WhatsApp Video 2026-09-15 at 00 35 03 (1)" src="https://github.com/user-attachments/assets/127d3b6e-d448-4be2-8ded-b164160aedbb" />
+
     </td>
   </tr>
 </table>
