@@ -1,5 +1,6 @@
 # Informatics ITS Graph Theory class Group 4
 
+## Step/Explanation about the algorithm
 <table>
   <tr>
     <td width="50%" valign="top">
