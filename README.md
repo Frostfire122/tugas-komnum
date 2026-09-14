@@ -1,6 +1,7 @@
 # Informatics ITS Graph Theory class Group 4
 
 ## Step/Explanation about the algorithm
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -17,7 +18,7 @@
   7. The edges selected during the process form the minimum spanning tree.
 
 
-    </td>
+  </td>
     <td >
       <img width="400" height="208" alt="WhatsApp Video 2026-09-15 at 00 35 03 (1)" src="https://github.com/user-attachments/assets/127d3b6e-d448-4be2-8ded-b164160aedbb" />
 
