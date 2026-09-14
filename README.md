@@ -55,3 +55,32 @@
   </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Reverse-Delete Algorithm
+
+  Steps:
+  
+  1. Start with the full connected graph containing all its original edges.
+  2. Sort all edges in decreasing order of their weights.
+  3. Consider the edge with the *largest* weight.
+  4. Temporarily remove the edge from the graph and check if the graph remains connected:
+     
+  * If the graph remains connected, permanently delete the edge.
+  * Else, restore the edge back to the graph.
+  
+  5. Move to the next *largest* edge.
+  6. Repeat steps 4–5 until all remaining edges have been evaluated.
+  7. The remaining connected graph forms the minimum spanning tree.
+
+
+  </td>
+    <td >
+      <img width="400" height="205" alt="WhatsApp Video 2026-09-15 at 00 35 05 (1)" src="https://github.com/user-attachments/assets/8fd3a865-d929-4ad6-a8f9-513f1b6ac02f" />
+      
+  </td>
+  </tr>
+</table>
+
