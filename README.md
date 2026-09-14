@@ -20,6 +20,36 @@
 
   </td>
     <td >
+      <img width="400" height="205" alt="WhatsApp Video 2026-09-15 at 00 35 04 (1)" src="https://github.com/user-attachments/assets/4577feee-3539-4d79-aff6-0a6bfab07256" />
+
+  </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Kruskal's Algorithm
+
+  Steps:
+  
+  1. Start with all vertices as separate components
+  2. Sort all edges in increasing order of their weights
+  3. Consider the edge with the *smallest* weight
+  4. If adding the edge does not create a cycle:
+     
+  * add it to the spanning tree.
+  - Else
+  * skip it.
+    
+  
+  6. Move to the next *smallest* edge.
+  7. Repeat steps 4–6 until all vertices are connected.
+  8. The edges selected during the process form the minimum spanning tree.
+
+
+  </td>
+    <td >
       <img width="400" height="208" alt="WhatsApp Video 2026-09-15 at 00 35 03 (1)" src="https://github.com/user-attachments/assets/127d3b6e-d448-4be2-8ded-b164160aedbb" />
 
   </td>
