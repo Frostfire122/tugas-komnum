@@ -1,27 +1,20 @@
-## There is two folder contains a C file. One for T+S13+T+S38, and one for T+S13+S38
-## This is the input to be input after running the C file
-    41151
-    40135
-    39106
-    38765
-    38941
-    39045
-    40206
-    41133
-    42963
-    45088
-    47013
-    48159
-    47164
-    46752
-    47403
-    49440
-    53410
-    53672
-    53012
-    50313
-    48730
-    48624
-    45668
-    42424
-    40577
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Prim's Algorithm
+
+1. Start with any vertex in the graph.
+2. Mark the starting vertex as part of the spanning tree.
+3. Look at all edges connecting inside to outside vertices.
+4. Choose the edge with the **smallest** weight.
+5. Add the chosen edge and outside vertex to the tree.
+6. Repeat until all vertices are included.
+7. The selected edges form the minimum spanning tree.
+
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="path/to/prims_animation.gif" alt="Prim's Algorithm GIF" width="100%">
+    </td>
+  </tr>
+</table>
