@@ -22,6 +22,6 @@
     <td >
       <img width="400" height="208" alt="WhatsApp Video 2026-09-15 at 00 35 03 (1)" src="https://github.com/user-attachments/assets/127d3b6e-d448-4be2-8ded-b164160aedbb" />
 
-    </td>
+  </td>
   </tr>
 </table>
